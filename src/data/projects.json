@@ -1,0 +1,12 @@
+[
+    {
+        "name": "ABCD",
+        "desc": "A simple project",
+        "version": "1.0"
+    },
+    {
+        "name": "NEW",
+        "desc": "A new project",
+        "version": "0.1"
+    }
+]
